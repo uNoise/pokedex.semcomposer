@@ -1,2 +1,3 @@
 # pokedex.semcomposer
- PokeDex
+ 
+ classes separadas sem função de buscar informação em conjunto.
